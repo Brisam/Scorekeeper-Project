@@ -1,0 +1,1 @@
+This project is a simple score keeper application utilizing basic DOM manipulation methods. Project includes separate HTML, CSS, and JS files.
